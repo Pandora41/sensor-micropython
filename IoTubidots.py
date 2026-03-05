@@ -5,8 +5,8 @@ import machine
 import dht
 
 # === Konfigurasi WiFi ===
-ssid = 'hade'
-password = 'N4ntidulu'
+ssid = ''
+password = ''
 
 # === Konfigurasi Ubidots ===
 UBIDOTS_TOKEN = 'BBUS-Ohai5LhrlRIe3fZgfktoZYhGCeBebg'  # Ganti dengan Ubidots Token kalian
