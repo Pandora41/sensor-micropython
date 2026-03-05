@@ -5,8 +5,8 @@ import machine
 import dht
 
 # === Konfigurasi WiFi ===
-ssid = 'hade'
-password = 'N4ntidulu'
+ssid = ''
+password = ''
 
 # === Konfigurasi Server ===
 API_URL = "http://147.93.107.208:5000/sensor"  # Ganti dengan endpoint server kamu
